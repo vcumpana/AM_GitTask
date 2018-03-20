@@ -1,0 +1,4 @@
+Text for first commit branch zFeature
+Text for second commit branch zFeature
+Text for third commit branch zFeature
+Text for fourth commit branch zFeature
