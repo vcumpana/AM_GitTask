@@ -1,3 +1,4 @@
 Text for first commit branch yFeature
 Text for second commit branch yFeature
 Text for third commit branch yFeature
+Text for fourth commit branch yFeature
